@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/CVPortfolio/static/css/main.971eab5f.css",
-    "main.js": "/CVPortfolio/static/js/main.df18e749.js",
+    "main.js": "/CVPortfolio/static/js/main.7df8cadb.js",
     "static/js/415.4d6acbeb.chunk.js": "/CVPortfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/CVPortfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/trackonline.png": "/CVPortfolio/static/media/trackonline.e149514b7b2dcbd591e5.png",
     "static/media/codeEditor.png": "/CVPortfolio/static/media/codeEditor.ba9458794dca1c746ef2.png",
-    "static/media/Jarrel Pothoff CV 2023 - 2024.pdf": "/CVPortfolio/static/media/Jarrel Pothoff CV 2023 - 2024.cb1c8ddd582f93c4f37d.pdf",
+    "static/media/Jarrel Pothoff CV 2023 - 2024.pdf": "/CVPortfolio/static/media/Jarrel Pothoff CV 2023 - 2024.660ebde86bad16f18ef1.pdf",
     "static/media/blog.png": "/CVPortfolio/static/media/blog.52102140f369ea233010.png",
     "static/media/leaf.png": "/CVPortfolio/static/media/leaf.4c15d6eb3fc75cfef85b.png",
     "static/media/groenagrocontrol.png": "/CVPortfolio/static/media/groenagrocontrol.c1313d3a76ece98e7996.png",
@@ -20,12 +20,12 @@
     "static/media/pre.svg": "/CVPortfolio/static/media/pre.317e6ae9ed8ae3b839dc.svg",
     "index.html": "/CVPortfolio/index.html",
     "main.971eab5f.css.map": "/CVPortfolio/static/css/main.971eab5f.css.map",
-    "main.df18e749.js.map": "/CVPortfolio/static/js/main.df18e749.js.map",
+    "main.7df8cadb.js.map": "/CVPortfolio/static/js/main.7df8cadb.js.map",
     "415.4d6acbeb.chunk.js.map": "/CVPortfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/CVPortfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.971eab5f.css",
-    "static/js/main.df18e749.js"
+    "static/js/main.7df8cadb.js"
   ]
 }
