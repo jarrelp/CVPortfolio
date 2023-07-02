@@ -19,15 +19,15 @@ function Home2() {
               IK GA ME EVEN <span className="purple"> VOORSTELLEN </span>
             </h1>
             <p className="home-about-body">
-              Ik ben een jongen van 20 jaar die in het derde jaar zit van HBO
+              Ik ben een jongen van 21 jaar die in het derde jaar zit van HBO
               ICT Software Enginering.
               <br />
               <br />
-              Ik heb redelijk wat ervaring met de backend talen
+              Ik heb drie jaar ervaring met de backend talen
               <i>
                 <b className="purple"> Java, C#, Python. </b>
               </i>
-              Ook heb ik al redelijk wat ervaring met de frontend talen
+              En verder heb ik vier jaar ervaring met de frontend talen
               <i>
                 <b className="purple"> JavaScript, HTML and CSS. </b>
               </i>
@@ -49,7 +49,7 @@ function Home2() {
               <i>
                 <b className="purple"> React </b>
               </i>
-              omdat ik daar al wat ervaring mee heb.
+              omdat ik met deze frameworks het meeste ervaring mee heb.
             </p>
           </Col>
           <Col md={4} className="myAvtar">

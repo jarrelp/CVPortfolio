@@ -12,12 +12,13 @@ function AboutCard() {
             <span className="purple">Jarrel Pothoff </span>
             en woon in <span className="purple"> Pijnacker.</span>
             <br />
-            Ik zit nu in het derde jaar van{" "}
+            Op dit moment zit ik in het vierde jaar van{" "}
             <span className="purple">HBO-ICT Software Engineering </span>
             en zou graag m'n kennis willen verbreden op het gebied van ICT.
             <br />
             <br />
             Ik heb ook nog leuke hobbies die ik graag doe in mijn vrije tijd!
+            Deze hobbies zijn:
           </p>
           <ul>
             <li className="about-activity">
